@@ -178,3 +178,8 @@
 }
 }
 
+@media screen and (max-width: 576px){
+    header .bg .bgLogo{
+        width: 300px;
+    }
+}
